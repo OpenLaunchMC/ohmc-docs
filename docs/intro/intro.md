@@ -1,4 +1,9 @@
-# Introduction to OpenLaunch
+---
+id: intro
+title: Introduction
+---
+
+# Introduce OpenLaunch
 To introduce OpenLaunch, we will discuss about a simple question first.
 
 ## What is OpenLaunch?
